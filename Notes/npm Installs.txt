@@ -1,0 +1,9 @@
+Backend:
+	express - handle are api request 
+	cors - security perpose
+	dotenv - mongodb, mongoose
+
+Frontend:
+	-npm install -D tailwindcss postcss autoprefixer
+
+MongoDb IP Address -(183.82.24.26)
