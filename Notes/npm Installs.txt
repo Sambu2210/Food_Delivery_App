@@ -11,3 +11,8 @@ Frontend:
 AUTH:
 
 	*Use the auth0 extention
+	
+05-3-24:
+
+*what is queryclient ?
+*install - npm i react-query

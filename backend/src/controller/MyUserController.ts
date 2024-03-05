@@ -4,7 +4,7 @@ import User from "../models/User";
 const createCurrentUser = async(req:Request, res:Response)=>{
     //1. Check if user is exists
     //2. create the user if dosen't exists
-    //3. return the user object to calling client
+    //3. return the user object to calling clientrea
 
     try{
         const {auth0Id} = req.body;
