@@ -6,4 +6,8 @@ Backend:
 Frontend:
 	-npm install -D tailwindcss postcss autoprefixer
 
-MongoDb IP Address -(183.82.24.26)
+*npm lucide-react is popular icon package
+
+AUTH:
+
+	*Use the auth0 extention
