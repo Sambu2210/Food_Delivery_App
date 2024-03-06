@@ -16,3 +16,7 @@ AUTH:
 
 *what is queryclient ?
 *install - npm i react-query
+*What is useMutation hook?
+*Hooks - useEffect, useRef,useNavigate
+
+npm install express-validator
